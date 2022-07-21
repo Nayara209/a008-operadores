@@ -6,7 +6,7 @@ Faça um programa que pergunte ao usuário dois números. Em seguida, faça as o
 O primeiro numero é maior que segundo? true
 O primeiro numero é igual ao segundo? false
 O primeiro numero é divisível pelo segundo? true
-O segundo numero é divisível pelo primeiro? true
+O segundo numero é divisível pelo primeiro?true
 
 divisível = com resto zero
 
